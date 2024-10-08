@@ -1,0 +1,27 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "form testing for the similar course assignment in workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaAaBrekke/formSubmit.git#form"
+  },
+  "keywords": [
+    "workflow",
+    "js",
+    "testing",
+    "e2e",
+    "unit"
+  ],
+  "author": "Anna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnnaAaBrekke/formSubmit/issues"
+  },
+  "homepage": "https://github.com/AnnaAaBrekke/formSubmit/tree/form#readme"
+}
